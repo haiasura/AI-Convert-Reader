@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "haiasura",
+    "description": "AI biên tập truyện Convert"
+  },
+  "data": [
+    {
+      "name": "AI Convert Reader V1",
+      "author": "haiasura",
+      "version": 1,
+      "source": "https://github.com/haiasura/AI-Convert-Reader",
+      "path": "https://raw.githubusercontent.com/haiasura/AI-Convert-Reader/main/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/haiasura/AI-Convert-Reader/main/icon.png",
+      "description": "Biên tập truyện Convert bằng AI đa API",
+      "type": "translate",
+      "encrypt": false
+    }
+  ]
+}
